@@ -29,4 +29,16 @@ fish.forEach(individualFish => {
     console.log(individualFish);
 }) 
 ```
+``` 
+There are two ways to construct an object in JavaScript:
 
+The object literal, which uses curly brackets: {}
+The object constructor, which uses the new keyword
+```
+``` 
+There are two ways to access an object’s properties.
+
+Dot notation: .
+Bracket notation: []
+```
+#### a new Date instance without arguments provided creates an object corresponding to the current date and time.
